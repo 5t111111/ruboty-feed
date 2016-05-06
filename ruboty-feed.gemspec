@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.version       = Ruboty::Feed::VERSION
   spec.authors       = ["Hirofumi Wakasugi"]
   spec.email         = ["baenej@gmail.com"]
-  spec.summary       = "Ruboty plug-in to subscribe feed."
-  spec.description   = "Ruboty plug-in to subscribe feed."
+  spec.summary       = "Ruboty plug-in to subscribe RSS/Atom feed."
+  spec.description   = "Ruboty plug-in to subscribe RSS/Atom feed."
   spec.homepage      = "https://github.com/5t111111/ruboty-feed"
   spec.license       = "MIT"
 
