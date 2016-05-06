@@ -1,6 +1,6 @@
 # Ruboty::Feed
 
-Ruboty plug-in to subscribe RSS feed (along with [ruboty-cron](ruboty-cron)).
+Ruboty plug-in to subscribe RSS feed (along with [ruboty-cron](https://github.com/r7kamura/ruboty-cron)).
 
 ## Usage
 
