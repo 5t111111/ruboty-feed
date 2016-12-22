@@ -17,7 +17,7 @@ module Ruboty
 
         feed.entries.each do |e|
           entry = Ruboty::Feed::Entry.new(e, robot)
-          next if entry.stored?.tap
+          next if entry.stored?
           message.reply(entry.format)
           entry.store!
           sleep 0.5
