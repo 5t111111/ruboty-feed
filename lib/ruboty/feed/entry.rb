@@ -6,7 +6,6 @@ module Ruboty
       attr_reader :url
 
       def initialize(e, robot)
-        p e
         @url = e.url
         @id = e.entry_id
         @published = e.published
